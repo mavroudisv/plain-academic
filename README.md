@@ -16,5 +16,5 @@ Nice people using this template:
 - [Debjani Saha](https://www.cs.umd.edu/~dsaha/) 
 - [Dong Chen](https://dongchen-coder.github.io/)
 - [Kesavan Venkatesh](https://kvenkatesh5.github.io/)
-
+- [Sonia Sargolzaei](https://soniasargol.github.io/)
 
