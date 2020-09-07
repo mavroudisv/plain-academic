@@ -1,11 +1,16 @@
 # Plain-Academic Template
 A truly simple website template for academics. It was developed with simplicity in mind (both in terms of style and in code complexity).
 
-Just download the file and start edditing straightaway. If you have improvement suggestions feel free to make a pull request or open an issue.
+Just download the two files (index.html and photo.gif) and start editing straightaway. 
 
-If you are using it drop me a line ([link](https://mavroud.is))!
+![Frontpage](/img/frontpage.png)
 
-Nice people using this template: 
+If you have suggestions for improvements feel free to make a pull request or open an issue.
+
+If you are using it, I'd be happy to hear from you! You can drop me a line at ([link](https://mavroud.is))!
+
+
+You can get more ideas from other nice people using this template: 
 - [Andrea Cerulli](http://andreacerulli.github.io/)
 - [Jonathan Bootle](http://www0.cs.ucl.ac.uk/staff/J.Bootle/)
 - [Hossein Rezaei](https://www.cs.ucf.edu/~rezaei)
