@@ -23,4 +23,7 @@ You can get more ideas from other nice people using this template:
 - [Dong Chen](https://dongchen-coder.github.io/)
 - [Kesavan Venkatesh](https://kvenkatesh5.github.io/)
 - [Sonia Sargolzaei](https://soniasargol.github.io/)
+- [Sourav Chatterjee](https://statweb.stanford.edu/~souravc/index.html)
+
+
 
