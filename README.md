@@ -24,6 +24,6 @@ You can get more ideas from other nice people using this template:
 - [Kesavan Venkatesh](https://kvenkatesh5.github.io/)
 - [Sonia Sargolzaei](https://soniasargol.github.io/)
 - [Sourav Chatterjee](https://statweb.stanford.edu/~souravc/index.html)
-
+- [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)
 
 
