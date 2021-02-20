@@ -12,7 +12,6 @@ If you are using it, I'd be happy to hear from you! You can drop me a line at ([
 
 
 You can get more ideas from other nice people using this template: 
-- [Andrea Cerulli](http://andreacerulli.github.io/)
 - [Jonathan Bootle](http://www0.cs.ucl.ac.uk/staff/J.Bootle/)
 - [Hossein Rezaei](https://www.cs.ucf.edu/~rezaei)
 - [Ali Siahkoohi](https://alisiahkoohi.github.io/)
