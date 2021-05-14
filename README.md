@@ -24,6 +24,7 @@ You can get more ideas from other nice people using this template:
 - [Sonia Sargolzaei](https://soniasargol.github.io/)
 - [Sourav Chatterjee](https://statweb.stanford.edu/~souravc/index.html)
 - [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)
+- [Masum Hasan](http://masumhasan.net/)
 
 
-Do not remove the attibution link of the template, so that other people can find it.
+Please do not remove the attibution link of the template, so that other people can find it too.
