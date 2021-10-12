@@ -24,6 +24,7 @@ You can get more ideas from other nice people using this template:
 - [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/)
 - [Masum Hasan](http://masumhasan.net/)
 - [Tapajit Dey](https://tapjdey.github.io/)
+- [Jakob Brounstein](https://jakobbrounstein.github.io/)
 
 
 Please do not remove the attibution link of the template, so that other people can find it too.
