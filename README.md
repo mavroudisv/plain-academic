@@ -12,7 +12,7 @@ If you are using it, I'd be happy to hear from you! You can drop me a line at ([
 
 
 You can get more ideas from other nice people using this template: 
-- [Jonathan Bootle](http://www0.cs.ucl.ac.uk/staff/J.Bootle/)
+- [Jonathan Bootle](https://jbootle.github.io/)
 - [Hossein Rezaei](https://www.cs.ucf.edu/~rezaei)
 - [Gustavo Cevolani](http://www.gustavocevolani.it/)
 - [Isabel Papadimitriou](https://nlp.stanford.edu/~isabelvp/)
